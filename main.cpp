@@ -1,3 +1,7 @@
+// Author
+// Rodrigo Rodrigues Veloso - 202104940044
+
+
 #include <iostream>
 #include <vector>
 #include <algorithm>  // Para std::random_shuffle
